@@ -1,7 +1,7 @@
 //William Smyth May
 //2013-11-11
-//This is JavaScript file for lab 7
-//creates and populates the google map on the earthquake page
+//This is the JavaScript file for lab 7
+//Creates and populates the google map for the earthquakes page
 
 /* earthquakes.js
     Script file for the INFO 343 Lab 7 Earthquake plotting page
@@ -53,6 +53,7 @@ function getQuakes() {
 		});
 		addQuakeMarkers(quakes, gov.usgs.quakesMap); //adds markers for each quake
 	});
+}
 	
 //This function adds markers to the Google maps object
 function addQuakeMarkers(quakes, map) {
