@@ -1,7 +1,7 @@
 //William Smyth May
 //2013-11-11
 //This is the JavaScript file for lab 7
-//Creates and populates the google map for the earthquakes page
+//Creates and populates the google map for the earthquakes page.
 
 /* earthquakes.js
     Script file for the INFO 343 Lab 7 Earthquake plotting page
